@@ -35,16 +35,20 @@
 ## 🛠️ 技术栈
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=go,python,ts,js,vue,react,nodejs,postgres,redis,docker,git,linux,bash,vscode" alt="skill icons" /></a>
+  <strong>语言 & 框架</strong><br>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/GORM-9B59B6?style=for-the-badge" alt="GORM" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <strong>数据 & 缓存</strong><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+<p align="center">
+  <strong>基础设施 & 系统</strong><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
@@ -58,20 +62,8 @@
 | 项目 | 简介 | 主语言 |
 | :---: | :--- | :---: |
 | 🧠 **[Memora](https://github.com/1090-f/Memora)** ⭐3 | 基于 RAG / ReAct / MCP 的个人知识库 Agent；3 层 chunking 路由器、typed nodes → Markdown 投影、多格式文档统一解析链路 | Go |
+| 🔒 **[shiyou](https://github.com/1090-f/shiyou)** | 私有项目，进行中（占位简介，请到 GitHub 仓库编辑） | — |
 | 📝 **[blog](https://github.com/1090-f/blog)** | Go + Vue3 个人博客系统 | Vue |
-| 💬 **[go-](https://github.com/1090-f/go-)** | golang 简易网络聊天室 | Go |
-
-</div>
-
----
-
-## 📊 GitHub 活动
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1090-f&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="github stats" />
-<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=1090-f&theme=tokyonight&hide_border=true" alt="streak stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1090-f&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="top langs" />
 
 </div>
 
@@ -80,7 +72,7 @@
 ## 🌐 联系方式
 
 <p align="center">
-  <a href="mailto:dongf.dev@qq.com"><img src="https://img.shields.io/badge/Email-dongf.dev@qq.com-6CB4EE?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="mailto:1438318243@qq.com"><img src="https://img.shields.io/badge/Email-1438318243@qq.com-6CB4EE?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/1090-f"><img src="https://img.shields.io/badge/GitHub-1090--f-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
   <a href="https://github.com/1090-f/Memora"><img src="https://img.shields.io/badge/Memora-RAG%20Agent-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" alt="Memora" /></a>
 </p>
