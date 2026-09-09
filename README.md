@@ -62,7 +62,7 @@
 | 项目 | 简介 | 主语言 |
 | :---: | :--- | :---: |
 | 🧠 **[Memora](https://github.com/1090-f/Memora)** ⭐3 | 基于 RAG / ReAct / MCP 的个人知识库 Agent；3 层 chunking 路由器、typed nodes → Markdown 投影、多格式文档统一解析链路 | Go |
-| 🔒 **[shiyou](https://github.com/1090-f/shiyou)** | 私有项目，进行中（占位简介，请到 GitHub 仓库编辑） | — |
+| 🍜 **[shiyou](https://github.com/fcy222fcy/shiyou)** ⭐6 | 面向大学城学生的美食评价与发现平台，覆盖校内食堂、外卖、夜宵等高频就餐场景 | Go |
 | 📝 **[blog](https://github.com/1090-f/blog)** | Go + Vue3 个人博客系统 | Vue |
 
 </div>
