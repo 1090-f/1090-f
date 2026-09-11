@@ -19,14 +19,13 @@
 
 ## 🧑‍💻 关于我
 
-我是 **dongf（GitHub: 1090-f）**，一名偏好"代码能讲清楚为什么"的工程师。
+我是 **dongf（GitHub: 1090-f）**，后端 + AI 应用方向，一名偏好"代码能讲清楚为什么"的工程师。
 讨厌抽象定义，喜欢 case-driven + walkthrough；写代码偏保守 —— **先 boring，再 clever**。
 
-- 🔭 **正在做：** [Memora](https://github.com/1090-f/Memora) — 基于 RAG / ReAct / Plan-Execute / MCP / 长期记忆的个人智能知识库 Agent 系统
-- 🌱 **正在学：** Anthropic Claude Tool Use、MCP 协议族、RAG 检索质量评估
-- 💬 **常聊的话题：** RAG chunking 策略、router 设计、文档解析链路、agent loop 性能 trade-off
-- 🎯 **近况：** 在准备 AI 应用方向的面试，会持续把项目里学到的东西沉到仓库 README / 博客里
-- 📦 **栈偏好：** Go（主力后端）/ Python（脚本、ML 工具）/ TypeScript + Vue（前端）/ Postgres + Redis / Docker
+- 🔭 **正在做：** [Memora](https://github.com/1090-f/Memora) — 个人智能知识库 Agent：RAG / ReAct / Plan-Execute / MCP / 长期记忆，重心在 chunking 路由与混合检索链路
+- 🌱 **正在学：** Agent 上下文工程、MCP 协议族、RAG 检索质量评估 —— 顺着源码往下拆，边读边记
+- 💬 **常聊的话题：** RAG chunking 策略、router 设计、多格式文档解析链路、BM25 + 向量混合检索的取舍
+- 🎯 **近况：** 在准备 AI 应用方向的面试，把项目里踩过的坑持续沉淀到 README / 博客
 
 > 欢迎 Issue / Discussion 来交流 —— 比起"看起来厉害"，我更想做"经得起 review"的代码。
 
